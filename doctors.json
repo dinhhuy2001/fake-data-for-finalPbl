@@ -6,6 +6,7 @@
         "weekDays": "Mon-Fri",
         "time": "10AM-4PM",
         "fees": 20,
+        "phone": "+14844731715",
         "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-1.jpg"
     },
     {
@@ -15,6 +16,7 @@
         "weekDays": "Mon-Fri",
         "time": "9AM-5PM",
         "fees": 15,
+        "phone": "+14844578884",
         "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-2.jpg"
     },
     {
@@ -24,69 +26,117 @@
         "weekDays": "Sun-Fri",
         "time": "11AM-5PM",
         "fees": 35,
+        "phone": "+14842634709",
         "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-3.jpg"
     },
     {
         "id": "004",
-        "name": "Dr Truluck",
-        "specialize in": "Allergists",
+        "name": "Dr Alvaro",
+        "specialize in": "Hepatology",
         "weekDays": "Fri-Mon",
         "time": "8AM-5PM",
         "fees": 30,
+        "phone": "+14844731289",
         "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-4.jpg"
     },
     {
         "id": "005",
-        "name": "Dr Payne",
-        "specialize in": "Dermatologists",
-        "weekDays": "Sat-thu",
+        "name": "Dr Maria",
+        "specialize in": "Urologist",
+        "weekDays": "Sat-Thu",
         "time": "11AM-5PM",
         "fees": 15,
+        "phone": "+14844731390",
         "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-5.jpg"
     },
     {
         "id": "006",
         "name": "Dr Johnathan",
-        "specialize in": "Neurologist",
+        "specialize in": "Internist",
         "weekDays": "Tue-Fri",
         "time": "9AM-4PM",
-        "fees": 20,
+        "fees": 25,
+        "phone": "+14842989671",
         "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-6.jpg"
     },
     {
-        "id": "006",
-        "name": "Dr Johnathan",
-        "specialize in": "Neurologist",
-        "weekDays": "Tue-Fri",
-        "time": "9AM-4PM",
+        "id": "007",
+        "name": "Dr Bruno",
+        "specialize in": "Pulmonologist",
+        "weekDays": "Mon-Fri",
+        "time": "8AM-5PM",
         "fees": 20,
+        "phone": "+14845691286",
         "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-7.jpg"
     },
     {
-        "id": "006",
-        "name": "Dr Johnathan",
-        "specialize in": "Neurologist",
+        "id": "008",
+        "name": "Dr Noah",
+        "specialize in": "Infectious",
         "weekDays": "Tue-Fri",
         "time": "9AM-4PM",
         "fees": 20,
+        "phone": "+14844493799",
         "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-8.jpg"
     },
     {
-        "id": "006",
-        "name": "Dr Johnathan",
+        "id": "009",
+        "name": "Dr Anna",
         "specialize in": "Neurologist",
-        "weekDays": "Tue-Fri",
+        "weekDays": "Tue-Sat",
         "time": "9AM-4PM",
         "fees": 20,
+        "phone": "+14845691424",
         "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-9.jpg"
     },
     {
-        "id": "006",
-        "name": "Dr Johnathan",
-        "specialize in": "Neurologist",
-        "weekDays": "Tue-Fri",
+        "id": "010",
+        "name": "Dr Wayne",
+        "specialize in": "Cardiologist",
+        "weekDays": "Mon-Sat",
+        "time": "8AM-5PM",
+        "fees": 20,
+        "phone": "+18143519116",
+        "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Dr Han",
+        "specialize in": "Otolaryngologist",
+        "weekDays": "Tue-Sat",
+        "time": "8AM-4PM",
+        "fees": 20,
+        "phone": "+18143008371",
+        "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Dr Christ",
+        "specialize in": "Thyroidologists",
+        "weekDays": "Mon-Fri",
+        "time": "9AM-3PM",
+        "fees": 20,
+        "phone": "+18143511288",
+        "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Dr Gwen",
+        "specialize in": "Orthopaedists",
+        "weekDays": "Mon-Sat",
         "time": "9AM-4PM",
         "fees": 20,
-        "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-10.jpg"
+        "phone": "+18143008332",
+        "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Dr Palvat",
+        "specialize in": "Endocrinologist",
+        "weekDays": "Mon-Sat",
+        "time": "9AM-4PM",
+        "fees": 20,
+        "phone": "+18143008490",
+        "pic": "https://raw.githubusercontent.com/dinhhuy2001/fake-data-for-finalPbl/master/img/doctor/doctor-14.jpg"
     }
 ]
